@@ -1,3 +1,26 @@
+body {
+  font-family: 'Noto Serif TC', serif;
+  margin: 0;
+}
+.header {
+  background:
+    linear-gradient(
+        rgba(0, 0, 0, 0.45),
+        rgba(0, 0, 0, 0.45)
+      ),
+    url(hochiminh.jpg),
+    no-repeat;
+  background-size: cover;
+  padding: 40px;
+  font-family: 'Noto Sans', sans-serif;
+  text-transform: uppercase;
+  color: white;
+  font-weight: bold;
+}
+
+section {
+  margin: 0 50px;
+}
 .link-tags {
   display: none;
 }
