@@ -18,9 +18,30 @@ body {
   font-weight: bold;
 }
 
+.cest-ouam {
+  font-style: italic;
+  font-size: 0.7em;
+}
+
+a,
+a:visited {
+  color: #cf0000;
+}
+
 section {
   margin: 0 50px;
 }
+
+li {
+  margin: 0.8em 0;
+}
+
+.list-subtitle {
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+  font-style: italic;
+}
+
 .link-tags {
   display: none;
 }
